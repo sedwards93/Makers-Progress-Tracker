@@ -16,7 +16,7 @@
 
 ## Evidence:
 
--  Boris Bikes -  [repo](https://github.com/TamMelPer/Boris-Bikes)
+-  Boris Bikes -  [repo](https://github.com/sedwards93/boris_bikes)
 -  Dice -  [repo](https://github.com/sedwards93/TDD-workshop---Dice)
 -  PiggyBank - [repo](https://github.com/sedwards93/TDD_process_piggy_bank.md)
 -  Weekend Airport Challenge -  [repo](https://github.com/sedwards93/airport_challenge)
