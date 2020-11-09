@@ -7,7 +7,7 @@
 -   Be able to describe basic OO principles, including encapsulation and SRP. :no_good:
 	- I will carry through this learning objective into week 2. 
 
-##Plans:
+## Plans:
 
 -   Pair on Boris Bike challenge with a different person for three hours every day.
 -   Attend workshops on Debugging and TDD.
