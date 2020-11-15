@@ -14,6 +14,10 @@
 
 ## Evidence:
 
+- Secret Diary Mocking Exercise - [repo](https://github.com/sedwards93/Secret-Diary)
+- Oystercard Challenge - [repo](https://github.com/sedwards93/oystercard)
+- Takeaway Challenge - [repo](https://github.com/sedwards93/takeaway-challenge)
+
 ## Comment:
 
 This week saw the introduction of a lot of new ideas that I initially found very challenging. My knowledge of mocking and testing unit classes in isolation only really clicked whilst working on my weekend takeaway challenge. I will continue to apply these principles going forward, but will aim to do some extra practice regarding breaking classes up. Week two saw our first code review, and seeing and commenting on someone else's code has given me some ideas on how to improve my own code ahead of my next review. 
