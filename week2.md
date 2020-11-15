@@ -2,8 +2,8 @@
 ## Goals:
 
 -  Use all of week 1's skills :nail_care:
--  Break one class into two classes that work together, while maintaining test coverage :no_good:
-  -  I will carry through this learning objective into week 2.
+-  Break one class into two classes that work together, while maintaining test coverage
+	-   I will carry through this learning objective into week 3.
 -  Unit test classes in isolation using mocking :nail_care:
 -  Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) :nail_care:
 -  Review another person's code and give them meaningful feedback. :nail_care:
