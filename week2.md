@@ -11,7 +11,7 @@
 
 -  Improve upon my understanding of basic OO principles.
 -  Read up on use of RSpec mocks and doubles. 
--  Unit test classes in isolation using mocking :nail_care:
+-  Unit test classes in isolation using mocking 
 
 ## Evidence:
 
