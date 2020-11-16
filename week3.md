@@ -3,7 +3,7 @@
 
 -  Build a simple web app :nail_care:
 -  Follow an effective debugging process for web applications :nail_care:
--  Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS):nail_care
+-  Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) :nail_care:
 -  Explain the MVC pattern :nail_care:
 -  Break one class into two classes that work together, while maintaining test coverage :nail_care:
 
