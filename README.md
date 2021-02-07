@@ -1,5 +1,5 @@
 # Course goals
-As part of my reflective learning process, I will be keeping a log of my weekly goals during my time at Makers Academy. My wider goals for the entire course are as follows:
+As part of my reflective learning process, I will be keeping a log of my weekly goals during my time at Makers Academy. Please click on each of the markdown files to read about my Makers journey. My wider goals for the entire course are as follows:
 
 ## I can make software
 
